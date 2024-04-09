@@ -1,0 +1,23 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/Catboost/cat_boost_bestpara.py"
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	total: 88.6ms	remaining: 35.4s
+50:	total: 1.61s	remaining: 11s
+100:	total: 3.12s	remaining: 9.24s
+150:	total: 4.63s	remaining: 7.63s
+200:	total: 6.13s	remaining: 6.07s
+250:	total: 7.63s	remaining: 4.53s
+300:	total: 9.13s	remaining: 3s
+350:	total: 10.6s	remaining: 1.48s
+399:	total: 12s	remaining: 0us
+              precision    recall  f1-score   support
+
+           0     0.9994    0.9999    0.9996    281501
+           1     0.9848    0.9407    0.9622      2815
+
+    accuracy                         0.9993    284316
+   macro avg     0.9921    0.9703    0.9809    284316
+weighted avg     0.9993    0.9993    0.9993    284316
+
+Savings: 0.9414723574618226
+
+进程已结束,退出代码0

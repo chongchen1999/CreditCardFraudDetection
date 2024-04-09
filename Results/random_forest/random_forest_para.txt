@@ -1,0 +1,12 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/random_forest/random_forest_para.py"
+              precision    recall  f1-score   support
+
+           0     0.9980    0.9995    0.9987    281501
+           1     0.9360    0.8007    0.8631      2815
+
+    accuracy                         0.9975    284316
+   macro avg     0.9670    0.9001    0.9309    284316
+weighted avg     0.9974    0.9975    0.9974    284316
+
+
+进程已结束,退出代码0

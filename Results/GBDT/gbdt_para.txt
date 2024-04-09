@@ -1,0 +1,12 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/GBDT/gbdt_para.py"
+              precision    recall  f1-score   support
+
+           0     0.9983    0.9997    0.9990    281501
+           1     0.9617    0.8291    0.8905      2815
+
+    accuracy                         0.9980    284316
+   macro avg     0.9800    0.9144    0.9447    284316
+weighted avg     0.9979    0.9980    0.9979    284316
+
+
+进程已结束,退出代码0

@@ -1,0 +1,31 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/Catboost/cat_boost_bestpara_smote.py"
+Before SMOTE:
+ 0    281500
+1      2814
+Name: Class, dtype: int64
+After SMOTE:
+ 0    281500
+1    281500
+Name: Class, dtype: int64
+Default metric period is 5 because AUC is/are not implemented for GPU
+0:	total: 67.7ms	remaining: 27s
+50:	total: 1.79s	remaining: 12.2s
+100:	total: 3.5s	remaining: 10.4s
+150:	total: 5.21s	remaining: 8.59s
+200:	total: 6.9s	remaining: 6.83s
+250:	total: 8.57s	remaining: 5.09s
+300:	total: 10.3s	remaining: 3.38s
+350:	total: 12s	remaining: 1.67s
+399:	total: 13.6s	remaining: 0us
+              precision    recall  f1-score   support
+
+           0     0.9999    0.9993    0.9996    281501
+           1     0.9363    0.9865    0.9607      2815
+
+    accuracy                         0.9992    284316
+   macro avg     0.9681    0.9929    0.9802    284316
+weighted avg     0.9992    0.9992    0.9992    284316
+
+Savings: 0.9828857224716357
+
+进程已结束,退出代码0

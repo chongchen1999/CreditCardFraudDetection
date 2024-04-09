@@ -1,0 +1,13 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/XGBoost/XGBoost.py"
+              precision    recall  f1-score   support
+
+           0     0.9995    0.9998    0.9996    281501
+           1     0.9809    0.9467    0.9635      2815
+
+    accuracy                         0.9993    284316
+   macro avg     0.9902    0.9733    0.9816    284316
+weighted avg     0.9993    0.9993    0.9993    284316
+
+Savings: 0.9513753033075095
+
+进程已结束,退出代码0

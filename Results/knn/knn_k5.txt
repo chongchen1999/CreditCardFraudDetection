@@ -1,0 +1,13 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/KNN/knn.py"
+              precision    recall  f1-score   support
+
+           0     0.9995    0.9996    0.9995    281501
+           1     0.9587    0.9485    0.9536      2815
+
+    accuracy                         0.9991    284316
+   macro avg     0.9791    0.9740    0.9766    284316
+weighted avg     0.9991    0.9991    0.9991    284316
+
+ROC AUC Score: 0.9925751362448585
+
+进程已结束,退出代码0

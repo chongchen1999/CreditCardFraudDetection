@@ -1,0 +1,19 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/XGBoost/XGBoost_svmsmote.py"
+Before SVMSMOTE: 0    281500
+1      2814
+Name: Class, dtype: int64
+After SVMSMOTE: 0    281500
+1    281500
+Name: Class, dtype: int64
+              precision    recall  f1-score   support
+
+           0     0.9996    0.9996    0.9996    281501
+           1     0.9586    0.9623    0.9605      2815
+
+    accuracy                         0.9992    284316
+   macro avg     0.9791    0.9810    0.9800    284316
+weighted avg     0.9992    0.9992    0.9992    284316
+
+Savings: 0.9614427779752618
+
+进程已结束,退出代码0

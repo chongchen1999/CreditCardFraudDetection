@@ -1,0 +1,14 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/decision_tree/decision_tree_parameters.py"
+Accuracy: 0.9972354703920989
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9983    0.9989    0.9986    281501
+           1     0.8833    0.8306    0.8561      2815
+
+    accuracy                         0.9972    284316
+   macro avg     0.9408    0.9147    0.9274    284316
+weighted avg     0.9972    0.9972    0.9972    284316
+
+
+进程已结束,退出代码0

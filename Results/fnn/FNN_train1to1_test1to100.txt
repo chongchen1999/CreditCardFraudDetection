@@ -1,0 +1,28 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/Neural Networks/FNN/FNN_Pytorch.py"
+Using device: cuda
+Epoch 1/15, Loss: 0.022521594539284706
+Epoch 2/15, Loss: 0.00010340904555050656
+Epoch 3/15, Loss: 0.011448566801846027
+Epoch 4/15, Loss: 3.1943628187036666e-07
+Epoch 5/15, Loss: 0.055302366614341736
+Epoch 6/15, Loss: 0.0023949213791638613
+Epoch 7/15, Loss: 1.9498727851896547e-05
+Epoch 8/15, Loss: 4.219784386805259e-06
+Epoch 9/15, Loss: 0.0741560086607933
+Epoch 10/15, Loss: 0.0006182733923196793
+Epoch 11/15, Loss: 2.51559097395193e-16
+Epoch 12/15, Loss: 0.01004887092858553
+Epoch 13/15, Loss: 0.0004665702290367335
+Epoch 14/15, Loss: 4.723308393295156e-06
+Epoch 15/15, Loss: 0.006023172289133072
+              precision    recall  f1-score   support
+
+           0     1.0000    0.9976    0.9988    281501
+           1     0.8079    0.9993    0.8934      2815
+
+    accuracy                         0.9976    284316
+   macro avg     0.9039    0.9985    0.9461    284316
+weighted avg     0.9981    0.9976    0.9978    284316
+
+
+进程已结束,退出代码0

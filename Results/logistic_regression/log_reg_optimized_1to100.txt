@@ -1,0 +1,15 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/Logistic Regression/logistic_regression_real.py"
+Evaluating model with PolynomialFeatures:
+Accuracy: 0.929420081881
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9929    0.9354    0.9633    281501
+           1     0.0483    0.3279    0.0842      2815
+
+    accuracy                         0.9294    284316
+   macro avg     0.5206    0.6317    0.5238    284316
+weighted avg     0.9835    0.9294    0.9546    284316
+
+
+进程已结束,退出代码0

@@ -1,0 +1,29 @@
+model = LogisticRegression(C=1000, penalty='l1', solver='liblinear', max_iter=1000)
+
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/Logistic Regression/logistic_regression_real.py"
+Evaluating model with StandardScaler:
+Accuracy: 0.997995188452
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9982    0.9997    0.9990    281501
+           1     0.9695    0.8234    0.8905      2815
+
+    accuracy                         0.9980    284316
+   macro avg     0.9839    0.9116    0.9447    284316
+weighted avg     0.9980    0.9980    0.9979    284316
+
+Evaluating model with MinMaxScaler:
+Accuracy: 0.997977602386
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9982    0.9997    0.9990    281501
+           1     0.9667    0.8242    0.8897      2815
+
+    accuracy                         0.9980    284316
+   macro avg     0.9825    0.9119    0.9444    284316
+weighted avg     0.9979    0.9980    0.9979    284316
+
+
+进程已结束,退出代码0

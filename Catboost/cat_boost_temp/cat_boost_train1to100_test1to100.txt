@@ -1,0 +1,20 @@
+"D:\Python Workspace\CLIP\clip\venv\Scripts\python.exe" "E:/01 - Northeastern/2024 Spring/01 - Data Science/Final Project/Catboost/cat_boost.py"
+0:	total: 218ms	remaining: 1m 5s
+50:	total: 16.2s	remaining: 1m 18s
+100:	total: 33.1s	remaining: 1m 5s
+150:	total: 50.2s	remaining: 49.5s
+200:	total: 1m 7s	remaining: 33.1s
+250:	total: 1m 24s	remaining: 16.5s
+299:	total: 1m 41s	remaining: 0us
+              precision    recall  f1-score   support
+
+           0     0.9991    0.9998    0.9995    281501
+           1     0.9816    0.9101    0.9445      2815
+
+    accuracy                         0.9989    284316
+   macro avg     0.9904    0.9550    0.9720    284316
+weighted avg     0.9989    0.9989    0.9989    284316
+
+ROC AUC Score: 0.9983063034779499
+
+进程已结束,退出代码0
